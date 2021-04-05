@@ -1,1 +1,3 @@
-# python-run
+# algorithm
+# 1. C
+# 2. Python
